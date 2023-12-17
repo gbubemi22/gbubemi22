@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Flight Booking app**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang** and **Rust**
 
 - 💬 Ask me about **Node.js, Nestjs, Golang**
 
