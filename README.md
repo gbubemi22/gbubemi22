@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/slimbewo1" target="blank"><img src="https://img.shields.io/twitter/follow/slimbewo1?logo=twitter&style=for-the-badge" alt="slimbewo1" /></a> </p>
 
-- 🔭 I’m currently working on **Flight Booking app**
+- 🔭 I’m currently working on **Chating system with rust**
 
-- 🌱 I’m currently learning **Golang** and **Rust**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **Node.js, Nestjs, Golang**
+- 💬 Ask me about **Node.js, Nestjs, Golang, Rust**
 
 - 📫 How to reach me **slimnfine22@gmail.com**
 
